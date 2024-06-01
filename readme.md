@@ -1,4 +1,4 @@
-```markdown
+
 # Library Management System
 
 This is a simple library management system implemented in C++. It allows users to manage a library collection, including displaying available and borrowed books, borrowing books, and returning books.
@@ -43,7 +43,7 @@ g++ -o Main.exe Main.cpp -std=c++11
 ./Main.exe
 ```
 
-```
+
 ## Usage
 
 Upon running the program, you will be presented with a menu to perform various operations. Choose the desired option by entering the corresponding number and following the prompts.
