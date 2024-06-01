@@ -1,0 +1,402 @@
+[
+    {
+        "borrowed": true,
+        "borrowedDate": "2024-06-01",
+        "borrower": "Ruturaj Biswal",
+        "number": 1,
+        "returnDate": "2024-06-16",
+        "title": "The Great Gatsby"
+    },
+    {
+        "borrowed": true,
+        "borrowedDate": "2024-06-01",
+        "borrower": "John Doe",
+        "number": 2,
+        "returnDate": "2024-06-16",
+        "title": "To Kill a Mockingbird"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 3,
+        "returnDate": "",
+        "title": "1984"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 4,
+        "returnDate": "",
+        "title": "Pride and Prejudice"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 5,
+        "returnDate": "",
+        "title": "Harry Potter and the Philosopher's Stone"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 6,
+        "returnDate": "",
+        "title": "The Catcher in the Rye"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 7,
+        "returnDate": "",
+        "title": "The Hobbit"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 8,
+        "returnDate": "",
+        "title": "Brave New World"
+    },
+    {
+        "borrowed": true,
+        "borrowedDate": "2024-06-01",
+        "borrower": "Jane Doe",
+        "number": 9,
+        "returnDate": "2024-06-16",
+        "title": "The Lord of the Rings"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 10,
+        "returnDate": "",
+        "title": "Animal Farm"
+    },
+    {
+        "borrowed": true,
+        "borrowedDate": "2024-06-01",
+        "borrower": "John Smith",
+        "number": 11,
+        "returnDate": "2024-06-16",
+        "title": "The Da Vinci Code"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 12,
+        "returnDate": "",
+        "title": "The Alchemist"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 13,
+        "returnDate": "",
+        "title": "The Chronicles of Narnia"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 14,
+        "returnDate": "",
+        "title": "Gone with the Wind"
+    },
+    {
+        "borrowed": true,
+        "borrowedDate": "2024-06-01",
+        "borrower": "Emily Johnson",
+        "number": 15,
+        "returnDate": "2024-06-16",
+        "title": "The Girl with the Dragon Tattoo"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 16,
+        "returnDate": "",
+        "title": "The Kite Runner"
+    },
+    {
+        "borrowed": true,
+        "borrowedDate": "2024-06-01",
+        "borrower": "Michael Brown",
+        "number": 17,
+        "returnDate": "2024-06-16",
+        "title": "The Hitchhiker's Guide to the Galaxy"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 18,
+        "returnDate": "",
+        "title": "The Picture of Dorian Gray"
+    },
+    {
+        "borrowed": true,
+        "borrowedDate": "2024-06-01",
+        "borrower": "Sarah Adams",
+        "number": 19,
+        "returnDate": "2024-06-16",
+        "title": "The Hunger Games"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 20,
+        "returnDate": "",
+        "title": "The Road"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 21,
+        "returnDate": "",
+        "title": "The Shining"
+    },
+    {
+        "borrowed": true,
+        "borrowedDate": "2024-06-01",
+        "borrower": "Chris Evans",
+        "number": 22,
+        "returnDate": "2024-06-16",
+        "title": "Moby-Dick"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 23,
+        "returnDate": "",
+        "title": "The Grapes of Wrath"
+    },
+    {
+        "borrowed": true,
+        "borrowedDate": "2024-06-01",
+        "borrower": "Laura Johnson",
+        "number": 24,
+        "returnDate": "2024-06-16",
+        "title": "The Adventures of Huckleberry Finn"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 25,
+        "returnDate": "",
+        "title": "Frankenstein"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 26,
+        "returnDate": "",
+        "title": "The Count of Monte Cristo"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 27,
+        "returnDate": "",
+        "title": "Lord of the Flies"
+    },
+    {
+        "borrowed": true,
+        "borrowedDate": "2024-06-01",
+        "borrower": "David Williams",
+        "number": 28,
+        "returnDate": "2024-06-16",
+        "title": "Les Misérables"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 29,
+        "returnDate": "",
+        "title": "Jane Eyre"
+    },
+    {
+        "borrowed": true,
+        "borrowedDate": "2024-06-01",
+        "borrower": "Rachel Green",
+        "number": 30,
+        "returnDate": "2024-06-16",
+        "title": "The Handmaid's Tale"
+    },
+    {
+        "borrowed": true,
+        "borrowedDate": "2024-06-01",
+        "borrower": "Emma Watson",
+        "number": 31,
+        "returnDate": "2024-06-16",
+        "title": "A Tale of Two Cities"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 32,
+        "returnDate": "",
+        "title": "The Odyssey"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 33,
+        "returnDate": "",
+        "title": "The Scarlet Letter"
+    },
+    {
+        "borrowed": true,
+        "borrowedDate": "2024-06-01",
+        "borrower": "Michael Jackson",
+        "number": 34,
+        "returnDate": "2024-06-16",
+        "title": "Dracula"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 35,
+        "returnDate": "",
+        "title": "The Secret Garden"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 36,
+        "returnDate": "",
+        "title": "The Road Less Traveled"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 37,
+        "returnDate": "",
+        "title": "The Adventures of Sherlock Holmes"
+    },
+    {
+        "borrowed": true,
+        "borrowedDate": "2024-06-01",
+        "borrower": "Amy Adams",
+        "number": 38,
+        "returnDate": "2024-06-16",
+        "title": "One Hundred Years of Solitude"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 39,
+        "returnDate": "",
+        "title": "Crime and Punishment"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 40,
+        "returnDate": "",
+        "title": "The Sun Also Rises"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 41,
+        "returnDate": "",
+        "title": "The Catcher in the Rye"
+    },
+    {
+        "borrowed": true,
+        "borrowedDate": "2024-06-01",
+        "borrower": "Jake Johnson",
+        "number": 42,
+        "returnDate": "2024-06-16",
+        "title": "The Old Man and the Sea"
+    },
+    {
+        "borrowed": true,
+        "borrowedDate": "2024-06-01",
+        "borrower": "Alexandra Smith",
+        "number": 43,
+        "returnDate": "2024-06-16",
+        "title": "The Stand"
+    },
+    {
+        "borrowed": true,
+        "borrowedDate": "2024-06-01",
+        "borrower": "Jessica Taylor",
+        "number": 44,
+        "returnDate": "2024-06-16",
+        "title": "Anna Karenina"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 45,
+        "returnDate": "",
+        "title": "Wuthering Heights"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 46,
+        "returnDate": "",
+        "title": "The Brothers Karamazov"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 47,
+        "returnDate": "",
+        "title": "Middlemarch"
+    },
+    {
+        "borrowed": true,
+        "borrowedDate": "2024-06-01",
+        "borrower": "Olivia Brown",
+        "number": 48,
+        "returnDate": "2024-06-16",
+        "title": "The Bell Jar"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 49,
+        "returnDate": "",
+        "title": "Mrs. Dalloway"
+    },
+    {
+        "borrowed": false,
+        "borrowedDate": "",
+        "borrower": "",
+        "number": 50,
+        "returnDate": "",
+        "title": "Beloved"
+    }
+]
